@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "my_first_app3.pbt";
+@end;
+DefaultTarget "my_first_app3.pbt";
+DefaultRemoteTarget "my_first_app3.pbt";
