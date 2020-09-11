@@ -41,6 +41,6 @@ event open;//first command
 open(myfirstwindow)
 //second command 
 messagebox("applicação","hello word")
-
+//testes
 end event
 
